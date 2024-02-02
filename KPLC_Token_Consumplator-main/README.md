@@ -50,7 +50,5 @@ This project is licensed under the [MIT License](LICENSE).
 - This project was inspired by the need to estimate power usage and promote energy awareness.
 - The ChatGPT theme was inspired by the user-friendly design of OpenAI's ChatGPT model.
 
-## Contact
 
-For any inquiries or feedback, please contact [Tosh](mailto:shellcodegroup@gmail.com).
 
